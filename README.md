@@ -1,7 +1,7 @@
 ## what?
 simple react js CRUD app.you can add todo list, edit ,updaye and delete it.
 
-##technology required
+## technology required
 git bash or simple window terminal
 nodejs
 
