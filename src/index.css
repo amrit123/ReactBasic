@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: aqua;
+  
+}
+.App{
+  padding: 50px;
+  align-content: center;
+
+    top: 50%;
+    left: 50%;
+
+}
+.editButton{
+  background-color:green;
+  margin: 5px;
+  padding: 0px;
+  
+}
+.deleteButton{
+  background-color:red;
+}
+.saveButton{
+  background-color:blueviolet;
+}
